@@ -1,0 +1,81 @@
+,1:number,2:error_lines,3:error_logs,4:error_time
+0,2,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.00207946; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:24:20 2019
+1,5,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.0202083; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:25:33 2019
+2,8,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.147288; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:26:43 2019
+3,11,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.0256179; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:28:00 2019
+4,12,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.225393; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:28:25 2019
+5,13,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.390461; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:28:56 2019
+6,14,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.0256179; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:29:23 2019
+7,15,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.214043; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:30:06 2019
+8,16,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.0644049; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:30:40 2019
+9,17,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.155474; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:31:14 2019
+10,19,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.0479719; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:32:28 2019
+11,26,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.229966; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:35:05 2019
+12,29,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.0572949; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:36:14 2019
+13,39,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.220838; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:39:59 2019
+14,40,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.0193668; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:40:27 2019
+15,43,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.108773; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:41:36 2019
+16,46,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.159621; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:42:33 2019
+17,60,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.040586; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:47:07 2019
+18,77,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.044208; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:52:44 2019
+19,88,279,"Message: element click intercepted: Element <a class=""list"" reaultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1078, 610). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.376887; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Linux 4.4.0-142-generic x86_64)
+",Thu May 23 18:56:18 2019

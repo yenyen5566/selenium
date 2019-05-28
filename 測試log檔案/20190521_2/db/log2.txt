@@ -1,0 +1,2 @@
+Error ''NoneType' object has no attribute 'is_displayed'' happened on line 245    Tue May 21 18:11:52 2019
+Error 'HTTPConnectionPool(host='localhost', port=38880): Max retries exceeded with url: /session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa411b22d30>: Failed to establish a new connection: [Errno 111] Connection refused',))' happened on line 215    Tue May 21 20:36:13 2019

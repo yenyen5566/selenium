@@ -1,0 +1,9 @@
+,1:number,2:error_lines,3:error_logs,4:error_time
+0,4,266,"Message: element click intercepted: Element <button class=""btnFilter"">...</button> is not clickable at point (1188, 535). Other element would receive the click: <form class=""filter"" style=""display:block"">...</form>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+",15:13:34
+1,5,266,"Message: element click intercepted: Element <button class=""btnFilter"">...</button> is not clickable at point (1188, 535). Other element would receive the click: <dd>...</dd>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+",15:13:42

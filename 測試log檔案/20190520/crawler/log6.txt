@@ -1,0 +1,2 @@
+Error 'Message: Service /home/azion/selenium/venv/chromedriver unexpectedly exited. Status code was: 1
+' happened on line 215    Mon May 20 19:36:47 2019

@@ -1,0 +1,5 @@
+,1:number,2:error_lines,3:error_logs,4:error_time
+0,6,284,"Message: element click intercepted: Element <a class=""list"" resultareatype=""3"" href=""javascript:void(0)"">...</a> is not clickable at point (1207, 529). Other element would receive the click: <div class=""blockUI blockOverlay"" style=""z-index: 1000; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.567302; cursor: default; position: fixed;""></div>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+",15:19:15

@@ -1,0 +1,6 @@
+{'api': {'Message: element click intercepted: Element <a class="list" reaultareatype="3" href="javascript:void': 57, "'NoneType' object has no attribute 'is_displayed'": 3},
+ 'db': {'Message: element click intercepted: Element <a class="list" reaultareatype="3" href="javascript:void': 134, "'NoneType' object has no attribute 'is_displayed'": 2},
+ 'hello': {'Message: element click intercepted: Element <a class="list" reaultareatype="3" href="javascript:void': 50, "'NoneType' object has no attribute 'is_displayed'": 2},
+ 'producer': {'Message: element click intercepted: Element <a class="list" reaultareatype="3" href="javascript:void': 134, "'NoneType' object has no attribute 'is_displayed'": 2},
+ 'web': {'Message: element click intercepted: Element <a class="list" reaultareatype="3" href="javascript:void': 50, "'NoneType' object has no attribute 'is_displayed'": 2},
+ 'worker': {'Message: element click intercepted: Element <a class="list" reaultareatype="3" href="javascript:void': 50, "'NoneType' object has no attribute 'is_displayed'": 2}}

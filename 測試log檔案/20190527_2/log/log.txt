@@ -1,0 +1,4 @@
+{'db': {"'NoneType' object has no attribute 'send_keys'": 1, 'Message: chrome not reachable\n  (Session info: chrome=74.0.3729.131)\n  (Driver info: chromedriver=74': 1},
+ 'lambda': {'Message: chrome not reachable\n  (Session info: chrome=74.0.3729.131)\n  (Driver info: chromedriver=74': 1},
+ 'producer': {'Message: unknown error: Chrome failed to start: crashed\n  (unknown error: DevToolsActivePort file do': 1, 'Message: chrome not reachable\n  (Session info: chrome=74.0.3729.131)\n  (Driver info: chromedriver=74': 1, "'NoneType' object has no attribute 'send_keys'": 1},
+ 'worker': {'Message: chrome not reachable\n  (Session info: chrome=74.0.3729.131)\n  (Driver info: chromedriver=74': 2}}

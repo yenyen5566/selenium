@@ -1,0 +1,1 @@
+Error ''NoneType' object has no attribute 'click'' happened on line 257    Wed May 22 10:26:04 2019

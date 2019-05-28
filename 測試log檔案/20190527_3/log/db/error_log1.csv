@@ -1,0 +1,2 @@
+,1:number,2:error_lines,3:error_logs,4:error_time
+0,973,242,'NoneType' object has no attribute 'send_keys',16:23:34

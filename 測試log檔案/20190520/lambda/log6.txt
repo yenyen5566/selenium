@@ -1,0 +1,1 @@
+Error 'HTTPConnectionPool(host='localhost', port=42848): Max retries exceeded with url: /session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe8ddef5128>: Failed to establish a new connection: [Errno 111] Connection refused',))' happened on line 215    Mon May 20 19:51:44 2019

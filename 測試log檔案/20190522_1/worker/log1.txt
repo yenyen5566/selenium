@@ -1,0 +1,1 @@
+Error ''NoneType' object has no attribute 'is_displayed'' happened on line 241    Wed May 22 10:26:05 2019
